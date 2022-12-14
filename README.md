@@ -8,7 +8,7 @@ Corrida da Leitura é uma ferramenta gamificada e lúdica, para avaliação auto
 * Reconhecimento de fala 
 * Avaliação de fluência de leitura
 * Avaliação de métricas de tempo e acertividade
-* Tutorial
+* Tutorial Interativo
 
 ## Executando o projeto
 
