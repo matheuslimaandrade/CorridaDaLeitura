@@ -1,7 +1,7 @@
 ![tela escribo](https://user-images.githubusercontent.com/97136886/204396914-539c781c-5351-497d-84a6-aa0cd8cbb693.PNG)
 
 ## Descrição
-Corrida da Leitura é uma ferramenta gamificada e lúdica, para avaliação automática da velocidade e da precisão de leitura. <br> <br> O público alvo da solução são crianças entre 5 a 9 anos, que já passaram pelo 1° ano do ensino fundamental.<br> <br> 
+Corrida da Leitura é uma ferramenta gamificada e lúdica, para avaliação automática da velocidade e <br> da precisão  de leitura  de crianças entre 5 a 9 anos, que já passaram pelo 1° ano do ensino fundamental.
 
 ## Funcionalidades
 
@@ -19,7 +19,7 @@ Para executar a aplicação siga os seguintes passos:
 2. Abra a pasta com os arquivos baixados em uma IDE capaz de executar um servidor de desenvolvimento web;
     - Recomendação: Visual Studio Code + Extensão Live Server (Utilize o Google Chrome para evitar bugs);
     
-3. Ou se preferir, clique [aqui](https://corridadaleitura.netlify.app/) e seja redirecionado para a página do jogo: 
+3. Ou se preferir, clique [aqui](https://corridadaleitura.netlify.app/) e seja redirecionado para a página do jogo!
 
 ## Como jogar?
 
