@@ -29,8 +29,6 @@ Corrida da Leitura é uma ferramenta gamificada e lúdica, para avaliação auto
 
 :heavy_check_mark: `Funcionalidade 3:` Avaliação de métricas de tempo e acertividade de leitura.
 
-:heavy_check_mark: `Funcionalidade 4:` Chat com entre o paciente e profissional da saúde.
-
 ## Aplicação
 
 <img src="https://user-images.githubusercontent.com/97136886/204395893-1770d4a3-4607-4b45-9b00-a412a184ed0d.gif"></img>
