@@ -1,31 +1,43 @@
 ![tela escribo](https://user-images.githubusercontent.com/97136886/204396914-539c781c-5351-497d-84a6-aa0cd8cbb693.PNG)
 
-## Descrição
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=Desenvolvido&color=RED&style=for-the-badge" #vitrinedev/>
+</p>
+
+### Tópicos 
+
+- [Descrição do projeto](#descrição-do-projeto)
+
+- [Funcionalidades](#funcionalidades)
+
+- [Aplicação](#aplicação)
+
+- [Ferramentas utilizadas](#ferramentas-utilizadas)
+
+- [Acesso ao projeto](#acesso-ao-projeto)
+
+- [Desenvolvedores](#desenvolvedores)
+
+## Descrição do Projeto
 Corrida da Leitura é uma ferramenta gamificada e lúdica, para avaliação automática da velocidade e <br> da precisão  de leitura  de crianças entre 5 a 9 anos, que já passaram pelo 1° ano do ensino fundamental.
 
 ## Funcionalidades
 
-* Reconhecimento de fala 
-* Avaliação de fluência de leitura
-* Avaliação de métricas de tempo e acertividade
-* Tutorial Interativo
+:heavy_check_mark: `Funcionalidade 1:` Reconhecimento de fala em tempo real, com foco em comunicação infantil.
 
-## Executando o projeto
+:heavy_check_mark: `Funcionalidade 2:` Avaliação da fluência de leitura, a partir do processamento dos resultados coletados.
 
-Para executar a aplicação siga os seguintes passos:
+:heavy_check_mark: `Funcionalidade 3:` Avaliação de métricas de tempo e acertividade de leitura.
 
-1. Faça o download de todo o código fonte disponibilizado neste repositório;
+:heavy_check_mark: `Funcionalidade 4:` Chat com entre o paciente e profissional da saúde.
 
-2. Abra a pasta com os arquivos baixados em uma IDE capaz de executar um servidor de desenvolvimento web;
-    - Recomendação: Visual Studio Code + Extensão Live Server (Utilize o Google Chrome para evitar bugs);
-    
-3. Ou se preferir, clique [aqui](https://corridadaleitura.netlify.app/) e seja redirecionado para a página do jogo!
-
-## Como jogar?
+## Aplicação
 
 <img src="https://user-images.githubusercontent.com/97136886/204395893-1770d4a3-4607-4b45-9b00-a412a184ed0d.gif"></img>
 
-## Tecnologias
+###
+
+## Ferramentas utilizadas
 
 Este software foi construído com as seguintes tecnologias:
 
@@ -34,8 +46,18 @@ Este software foi construído com as seguintes tecnologias:
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - Linguagem de marcação para estruturar o conteúdo
 - [CSS3](https://developer.mozilla.org/en-US/docs/Learn/CSS) - Linguagem de marcação para adicionar estilização 
 
-## Squad
-Integrantes da equipe:
+###
+
+## Acesso ao projeto
+
+Você pode [acessar o link do sistema](https://corridadaleitura.netlify.app/) ou baixá-lo e rodar localmente.
+
+Para executar a aplicação siga os seguintes passos:
+1. Faça o download de todo o código fonte disponibilizado neste repositório
+2. Abra a pasta com os arquivos baixados em uma IDE capaz de executar um servidor de desenvolvimento web
+    - Recomendação: Visual Studio Code + Extensão Live Server (Utilize o Google Chrome para evitar bugs)
+       
+## Desenvolvedores
 
 <table>
     <tr>
