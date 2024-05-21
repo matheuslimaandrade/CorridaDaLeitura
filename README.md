@@ -19,7 +19,9 @@
 - [Desenvolvedores](#desenvolvedores)
 
 ## Descrição do Projeto
-Corrida da Leitura é uma ferramenta gamificada e lúdica, para avaliação automática da velocidade e <br> da precisão  de leitura  de crianças entre 5 a 9 anos, que já passaram pelo 1° ano do ensino fundamental.
+A Corrida da Leitura é uma ferramenta gamificada e lúdica, destinada à avaliação automática da velocidade e precisão de leitura de crianças entre 5 a 9 anos, que já completaram o 1° ano do ensino fundamental. 
+
+Este projeto visa proporcionar uma forma divertida e envolvente para aprimorar as habilidades de leitura das crianças, incentivando o desenvolvimento da fluência e compreensão de textos. Através da Corrida da Leitura, pais, educadores e as próprias crianças podem acompanhar o progresso na leitura, contribuindo para o seu desenvolvimento educacional.
 
 ## Funcionalidades
 
